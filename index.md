@@ -1,5 +1,5 @@
 
-> [home](/home)
+> [home](/programming)
 > &bull; [next-c](/next-c)
 > &bull; [next-gp](/next-gp)
 
